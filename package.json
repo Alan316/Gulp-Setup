@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-ruby-sass": "*",
+        "gulp-autoprefixer": "*",
+        "gulp-rename": "*",
+        "gulp-minify-css": "*",
+        "gulp-jshint": "*",
+        "gulp-concat": "*",
+        "gulp-uglify": "*",
+        "gulp-imagemin": "*",
+        "gulp-livereload": "*",
+        "gulp-cache": "*",
+        "gulp-notify": "*",
+        "del": "*"
+    }
+}
